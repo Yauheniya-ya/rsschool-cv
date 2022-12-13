@@ -1,6 +1,6 @@
 # Skiovich Yauheniya
 
-###Junior Frontend Developer
+### Junior Frontend Developer
 
 ## Contact information:
 Phone: +375 33 367 11 03
